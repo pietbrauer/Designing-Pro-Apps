@@ -1,0 +1,25 @@
+GIT
+  remote: https://github.com/playgroundbooks/playgroundbook.git
+  revision: ceb81692115fa085a7f3534b1017963ff8e1e23a
+  specs:
+    playgroundbook (0.4.0)
+      colored (~> 1.2)
+      cork (~> 0.1)
+      plist (~> 3.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colored (1.2)
+    cork (0.2.0)
+      colored (~> 1.2)
+    plist (3.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  playgroundbook!
+
+BUNDLED WITH
+   1.13.1

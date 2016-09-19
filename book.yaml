@@ -1,0 +1,11 @@
+name: Designing Pro Apps
+identifier: com.nerdishbynature.FrenchKit
+cover: Icon.png
+resources: assets
+imports:
+ - PlaygroundSupport
+ - UIKit
+chapters:
+  - name: "Chapter 1"
+    edge_to_edge_live_view: false
+    live_view_mode: "VisibleByDefault"
